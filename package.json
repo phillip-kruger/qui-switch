@@ -1,6 +1,6 @@
 {
-  "name": "@qomponent/switch",
-  "version": "1.0.3-SNAPSHOT",
+  "name": "@qomponent/qui-switch",
+  "version": "1.0.4-SNAPSHOT",
   "description": "A Switch UI component",
   "publishConfig": {
     "access": "public"
