@@ -11,7 +11,7 @@ npm i @qomponent/qui-switch
 ## Usage
 
 ```javascript
-import 'qui-switch';
+import '@qomponent/qui-switch';
 ```
 
 ### Size
